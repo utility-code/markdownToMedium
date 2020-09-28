@@ -28,3 +28,7 @@
 # Inspired by
 
 - This work is inspired by an awesome blog post I came across [Link](https://dev.to/ignatk/import-markdown-into-medium-in-4-clicks-3jgb)
+
+## To do
+
+- Convert to Pure Python solution (PRs welcome )
